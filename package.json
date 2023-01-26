@@ -1,0 +1,27 @@
+{
+  "name": "@gramarokoto/eslint-config-gramarokoto-dev",
+  "version": "1.0.0",
+  "description": "ESLint config for Javascript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gramarokoto/eslint-config-gramarokoto-dev.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Gaël RAMAROKOTO",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/gramarokoto/eslint-config-gramarokoto-dev/issues"
+  },
+  "homepage": "https://github.com/gramarokoto/eslint-config-gramarokoto-dev#readme",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.12.1",
+    "eslint-config-prettier": "^8.5.0"
+  }
+}
